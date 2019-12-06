@@ -1,2 +1,1 @@
-console.log('Hello worlds');
-console.log('and Raymond, Yura, Nadia');
+console.log('Привет, мир!');
