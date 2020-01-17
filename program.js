@@ -5,4 +5,4 @@ for (i = 2; i < a.length; i++) {
     s+=+a[i];
 }
 
-console.log('N ====>s',s);
+console.log('NR ====>s',s);
